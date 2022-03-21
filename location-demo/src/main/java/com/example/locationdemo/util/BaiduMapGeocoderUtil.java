@@ -18,7 +18,7 @@ public class BaiduMapGeocoderUtil {
     /**
      * 百度地图 Api调用相关的百度AK
      */
-    public final static String BAIDU_MAP_AK = "S3b9buXfNthnsH1GOF2gI2HIOufDTWhs";
+    public final static String BAIDU_MAP_AK = "您的ak密钥";
 
     public static void main(String[] args) {
         getAddressInfoByLngAndLat("118.767413","32.041544");
